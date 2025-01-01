@@ -45,7 +45,9 @@ Este é um **simulador de máquina caça-níqueis (slot machine)** desenvolvido 
    git clone https://github.com/seu-usuario/slot-machine-game.git
    
 2. Navegue até a Pasta do Projeto
+   ```bash
    cd slot-machine-game
    
 4. Execute o Jogo
-  python slot_machine.py
+   ```bash
+   python slot_machine.py
