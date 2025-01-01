@@ -50,4 +50,4 @@ Este é um **simulador de máquina caça-níqueis (slot machine)** desenvolvido 
    
 4. Execute o Jogo
    ```bash
-   python slot_machine.py
+   python mini_project.py
